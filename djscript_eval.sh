@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This code asks the user what app pachage to install if any out of 4 then install updste/package otherwise if input is No/Invalid
+
 read -p "Do you want to install apache2 or mysql-server or postgresql or
 mongoDB? (y/n) " yn
 
